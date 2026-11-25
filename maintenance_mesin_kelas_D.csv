@@ -1,0 +1,33 @@
+﻿tanggal,id_wo,mesin,area,jenis_maintenance,durasi_rencana,durasi_aktual,downtime,status_pekerjaan,catatan_teknisi
+2026-11-04,WO-01,PRS-01,Stamping,Preventive,60,55,30,SELESAI,Pemeriksaan rutin
+2026-11-04,WO-02,PRS-02,Stamping,Corrective,45,70,65,SELESAI,Sensor feeder bermasalah
+2026-11-04,WO-03,PRS-01,Stamping,Corrective,40,42,35,SELESAI,Penyesuaian limit switch
+2026-11-04,WO-04,PRS-03,Stamping,Preventive,90,95,50,SELESAI,Pelumasan dan inspeksi
+2026-11-04,WO-05,PRS-02,Stamping,Corrective,50,80,75,SELESAI,Gangguan feeder berulang
+2026-11-04,WO-06,PRS-04,Stamping,Preventive,60,60,25,SELESAI,
+2026-11-04,WO-07,MC-01,Machining,Preventive,75,70,35,SELESAI,Pembersihan coolant line
+2026-11-04,WO-08,MC-02,Machining,Corrective,50,55,50,SELESAI,Alarm spindle
+2026-11-04,WO-09,MC-03,Machining,Corrective,40,65,60,SELESAI,Tool changer macet
+2026-11-04,WO-10,MC-02,Machining,Corrective,45,68,62,SELESAI,Alarm spindle muncul kembali
+2026-11-04,WO-11,MC-04,Machining,Preventive,80,100,45,SELESAI,Inspeksi lebih lama
+2026-11-04,WO-12,MC-03,Machining,Corrective,40,48,42,SELESAI,Tool changer dicek ulang
+2026-11-04,WO-13,AS-01,Assembly,Preventive,40,38,15,SELESAI,Pemeriksaan conveyor
+2026-11-04,WO-14,AS-02,Assembly,Corrective,30,35,30,SELESAI,Sensor stopper
+2026-11-04,WO-15,AS-03,Assembly,Corrective,35,55,50,SELESAI,Pneumatic leak
+2026-11-04,WO-16,AS-03,Assembly,Corrective,30,45,40,SELESAI,Pneumatic leak berulang
+2026-11-04,WO-17,AS-04,Assembly,Preventive,50,50,20,SELESAI,
+2026-11-04,WO-18,AS-02,Assembly,Corrective,30,32,28,PENDING,Menunggu spare part
+2026-11-04,WO-19,FN-01,Finishing,Preventive,60,58,30,SELESAI,Pembersihan spray gun
+2026-11-04,WO-20,FN-02,Finishing,Corrective,45,75,70,SELESAI,Pompa cat bermasalah
+2026-11-04,WO-21,FN-03,Finishing,Preventive,70,85,40,SELESAI,Kalibrasi tambahan
+2026-11-04,WO-22,FN-02,Finishing,Corrective,45,50,45,SELESAI,Pompa cat dicek ulang
+2026-11-04,WO-23,FN-04,Finishing,Corrective,35,38,32,SELESAI,Nozzle tersumbat
+2026-11-04,WO-24,FN-04,Finishing,Corrective,35,42,35,SELESAI,Nozzle tersumbat kembali
+2026-11-04,WO-25,UT-01,Utility,Preventive,90,88,50,SELESAI,Pemeriksaan kompresor
+2026-11-04,WO-26,UT-02,Utility,Corrective,60,90,85,SELESAI,Tekanan udara turun
+2026-11-04,WO-27,UT-03,Utility,Corrective,N/A,70,65,SELESAI,Durasi rencana belum tersinkron
+2026-11-04,WO-28,UT-03,Utility,Preventive,60,,20,SELESAI,Durasi aktual belum diinput
+2026-11-04,WO-29,UT-04,Utility,Corrective,-30,45,40,SELESAI,Durasi rencana salah input
+2026-11-04,WO-30,UT-04,Utility,Corrective,40,35,50,SELESAI,Downtime melebihi durasi pekerjaan
+2026-11-04,WO-31,UT-05,Utility,Preventive,60,520,100,SELESAI,Durasi aktual salah input
+2026-11-04,WO-32,UT-05,Utility,Corrective,50,55,-10,SELESAI,Downtime negatif

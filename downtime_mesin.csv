@@ -1,0 +1,21 @@
+id_log,id_mesin,waktu_tersedia_menit,downtime_menit,kategori_gangguan,tindakan_perbaikan
+DT-001,MCH-01,480,25,Mekanikal,Penggantian bearing
+DT-002,MCH-02,480,40,Elektrikal,Reset inverter
+DT-003,MCH-03,480,15,Setup/Ganti Model,Penggantian cetakan
+DT-004,MCH-01,480,60,Mekanikal,Pelumasan rantai
+DT-005,MCH-04,480,30,Kurang Bahan Baku,Menunggu pasokan gudang
+DT-006,MCH-02,480,rusak,Mekanikal,Perbaikan motor
+DT-007,MCH-03,480,45,Elektrikal,Ganti sekring
+DT-008,MCH-05,480,20,Setup/Ganti Model,Kalibrasi sensor
+DT-009,MCH-01,480,500,Mekanikal,Overhaul gearbox
+DT-010,MCH-02,480,10,Operator,Briefing SOP
+DT-011,MCH-04,480,,Elektrikal,Perbaikan kabel putus
+DT-012,MCH-03,480,35,Setup/Ganti Model,Penyesuaian jig
+DT-013,MCH-05,480,120,Mekanikal,Perbaikan pompa hidrolik
+DT-014,MCH-01,480,-15,Kurang Bahan Baku,Koordinasi logistik
+DT-015,MCH-02,480,50,Operator,Training mandiri
+DT-016,MCH-04,480,15,Mekanikal,Pengencangan baut kendur
+DT-017,MCH-05,480,80,Elektrikal,Ganti relay
+DT-018,MCH-01,480,45,Setup/Ganti Model,Ganti dies potong
+DT-019,MCH-03,480,30,Mekanikal,Pembersihan filter
+DT-020,MCH-02,480,25,Elektrikal,Pengecekan arus listrik
